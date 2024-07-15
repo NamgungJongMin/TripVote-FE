@@ -2,11 +2,11 @@
 
 ![강자밭 최종발표_표지](https://github.com/Strong-Potato/TripVote-FE/assets/120024673/aa756e0b-b2c2-439a-9f4a-1069da84a723)
 
+## 시연영상
+
+https://github.com/user-attachments/assets/eef61cd4-811c-4d93-a9a5-24f1b2c3828f
 
 
-- 배포 URL : https://tripvote.site
-- Test ID : test@test.com
-- Test PW : 1q2w3e4r!Q
 
 <br>
 
@@ -219,11 +219,5 @@
 - Proxy
     - 프록시 서버를 사용하여 개발 환경 및 배포 환경에서 발생하는 CORS 문제를 해결했습니다.
     - 보안과 개발자 경험을 향상시키기 위해 노력했습니다.
-
-<br>
-
-## 7. 시연영상
-
-[![Video Label](https://i.ytimg.com/vi/bfKGZHpvXsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_JSsy52DV0U5jdfOjhp5_iYFVvw)](https://www.youtube.com/watch?v=bfKGZHpvXsc)
 
 <br>
